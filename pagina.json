@@ -1,0 +1,41 @@
+{
+    "squadName" : "Rock is live",
+    "homeTown" : "Ozzfest",
+    "formed" : 2020,
+    "secretBase" : "Rock and metal forever",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Motorhead",
+        "age" : 50,
+        "secretIdentity" : "Lemmy Kilmister",
+        "powers" : [
+          "Ace of spades",
+          "hellraiser",
+          "Orgasmatron"
+        ]
+      },
+      {
+        "name" : "Ac/dc",
+        "age" : 70,
+        "secretIdentity" : "Angus Yong",
+        "powers" : [
+          "Highway to hell",
+          "Hell Bells",
+          "Thundertruck"
+        ]
+      },
+      {
+        "name" : "Manowar",
+        "age" : 63,
+        "secretIdentity" : "Metal",
+        "powers" : [
+          "Heath to steel",
+          "Spirit horse of the cherokee",
+          "God of war",
+          "Swords in the wind",
+          "Blood of the kings"
+        ]
+      }
+    ]
+  }

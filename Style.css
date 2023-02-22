@@ -1,0 +1,59 @@
+/* || general styles */
+*{
+
+}
+body{
+  background-image: url('../pinkfloyd.jpeg');
+  background-size: 85%;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  }
+html {
+    font-family: 'Verdana,helvetica neue', helvetica, arial, sans-serif, white;
+  }
+  
+  body {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  
+  h1, h2 {
+    font-family: 'Faster One', cursive;
+    color:rgb(3, 29, 50);
+  }
+  
+  /* header styles */
+  
+  h1 {
+    font-size: 4rem;
+    text-align: center;
+  }
+  
+  header p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    }
+  
+  /* section styles */
+  
+  section article {
+    width: 23%;
+    border: 3px solid red;
+    float: left;
+  }
+  section article:hover{
+    background-color:whitesmoke;
+    transform: translatey(10px);
+
+  }
+  section p {
+    margin: 5px 0;
+    color: white;
+  }
+  
+  section ul {
+    margin-top: 0;
+    color: rgb(223, 230, 235);
+  }
